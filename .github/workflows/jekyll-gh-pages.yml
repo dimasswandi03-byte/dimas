@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Undangan Pernikahan – Dimas & Eny</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: 'Poppins', sans-serif;
+        background: #ffe6f2;
+    }
+
+    .hero {
+        background: #ffb6d9;
+        padding: 40px 20px;
+        text-align: center;
+        color: white;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+    }
+
+    .hero h1 {
+        font-size: 42px;
+        margin: 0;
+    }
+
+    .hero p {
+        font-size: 18px;
+        margin-top: 10px;
+    }
+
+    .section {
+        padding: 30px;
+        text-align: center;
+    }
+
+    .title {
+        font-size: 26px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        color: #cc2e70;
+    }
+
+    .box {
+        background: white;
+        padding: 20px;
+        margin: 20px auto;
+        max-width: 500px;
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+
+    .couple-img {
+        width: 100%;
+        border-radius: 15px;
+        margin-bottom: 15px;
+    }
+
+    .btn {
+        background: #ff5fa2;
+        color: rgb(0, 0, 0);
+        padding: 12px 18px;
+        border-radius: 8px;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+</style>
+</head>
+
+<body>
+
+<!-- Hero -->
+<div class="hero">
+    <h1> DIMAS SWANDI PRATAMA & ENY FAUZIYYAH</h1>
+    <p>03 Maret 2030</p>
+  
+</div>
+
+<!-- Foto -->
+<div class="section">
+    <div class="box">
+        <img src="eny (2).jpg" class="couple-img" alt="Foto Eny">
+        <img src="dimas (2).png" class="couple-img" alt="Foto Dimas">
+    </div>
+</div>
+
+<!-- Pembuka -->
+<div class="section">
+    <div class="box">
+        <div class="title">Assalamu’alaikum Wr. Wb.</div>
+        <p>
+Dengan penuh rasa syukur atas rahmat dan ridho Allah Subhanahu Wata’ala,
+kami bermaksud menyampaikan kabar bahagia tentang pernikahan putra–putri kami:
+
+DIMAS SWANDI PRATAMA
+&
+ENY FAUZIYYAH
+
+Dengan memohon limpahan doa serta restu dari Bapak/Ibu/Saudara/i,
+kami mengundang untuk hadir dan memberi keberkahan pada hari
+yang insyaAllah penuh kebahagiaan ini.
+
+Semoga kehadiran serta doa tulus Bapak/Ibu/Saudara/i menjadi
+pelengkap kebahagiaan dan awal yang penuh berkah bagi langkah
+pernikahan kami.
+</p>
+<div class="title">Wassalamu’alaikum Wr. Wb</div>
+    </div>
+</div>
+
+<!-- Detail Acara -->
+<div class="section">
+    <div class="title">Detail Acara</div>
+
+    <div class="box">
+        <h3>Akad Nikah & Resepsi</h3>
+        <p><b>03 Maret 2030</b><br>Mulai pukul: <b>07.00 WIB-23.00 WIB – selesai</b></p>
+
+        <p><b>Lokasi:</b><br>
+        Marubun, Sipispis,<br>
+        Kabupaten Serdang Bedagai,<br>
+        Sumatera Utara 20992
+        </p>
+
+        <a class="btn" 
+           href="https://www.google.com/maps/place/3%C2%B008'37.6%22N+99%C2%B001'03.9%22E/@3.1434105,99.0176502,3a,83.4y,14.13h,86.17t/data=!3m10!1e1!3m8!1s8gVHfgBV9xpxFH61hY8mbw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.8256839696243787%26panoid%3D8gVHfgBV9xpxFH61hY8mbw%26yaw%3D14.125873601517814!7i16384!8i8192!9m2!1b1!2i49!4m4!3m3!8m2!3d3.1437875!4d99.0177579?authuser=1&entry=ttu&g_ep=EgoyMDI1MTEzMC4wIKXMDSoASAFQAw%3D%3D
+/"
+           target="_blank">Lihat Lokasi</a>
+    </div>
+</div>
+
+<!-- Galeri -->
+<div class="section">
+    <div class="title">Galeri</div>
+
+    <div class="box">
+        <p>Foto kenangan kami:</p>
+        <img src="eny (2).jpg" class="couple-img">
+        <img src="dimas (2).png" class="couple-img">
+    </div>
+</div>
+
+<!-- RSVP -->
+<div class="section">
+    <div class="title">Konfirmasi Kehadiran</div>
+    <p>Silakan klik tombol di bawah untuk konfirmasi via WhatsApp.</p>
+
+    <a class="btn" 
+       href="https://wa.me/6281264753658?text=Halo%2C+saya+ingin+mengkonfirmasi+kehadiran"
+       target="_blank">Konfirmasi via WhatsApp</a>
+</div>
+
+<!-- Penutup -->
+<div class="section">
+    <div class="box">
+        <p>Merupakan kehormatan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir.</p>
+        <p><b></b></p>
+    </div>
+</div>
+
+</body>
+</html>
